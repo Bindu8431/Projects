@@ -5,7 +5,7 @@ Balance = 10000
 attempt = 0
 blocked = False
 transactions = []
-print("welcome to pentagon space bank")
+print("welcome to pentagon space ")
 
 while True:
     if inserted == False:
